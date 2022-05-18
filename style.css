@@ -1,0 +1,23 @@
+body {
+  background: #2d3436;
+  color: #ff7675;
+  font-family: "Righteous", cursive;
+}
+
+.one {
+  background: #2d3436;
+  padding: 50px 20px;
+  text-align: center;
+}
+.one h1 {
+  font-family: "Righteous", cursive;
+  position: relative;
+  color: #ff7675;
+  display: inline-block;
+  border-top: 2px solid;
+  border-bottom: 2px solid;
+  font-size: 3em;
+  padding: 11px 60px;
+  margin: 0;
+  line-height: 1;
+}
